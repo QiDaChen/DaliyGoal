@@ -64,4 +64,10 @@
 
 **备注**：www.chenphoun.top
 
+## 20190828
 
+**完成工作**： 数据库的内连接和左连接右连接全连接及查询
+
+**明日计划**：leetcode 完成三道select数据库语句面试题
+
+**备注**：//leetcode-cn.com/problems/combine-two-tables/solution/zu-he-liang-ge-biao-by-leetcode/
