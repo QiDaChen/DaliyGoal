@@ -101,3 +101,5 @@
 **明日计划**：
 
 **备注**：数据库的基本查询、并发、设计模式、https://blog.csdn.net/weixin_40096730/article/details/87360963
+
+**week glob**: vim 中的代码补全
