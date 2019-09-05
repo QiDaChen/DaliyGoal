@@ -102,4 +102,10 @@
 
 **备注**：数据库的基本查询、并发、设计模式、https://blog.csdn.net/weixin_40096730/article/details/87360963
 
-**week glob**: vim 中的代码补全
+## 20190905:
+**计划**: flask 表单验证和 数据库orm的应用实践
+**实际完成**：
+**备注**: bilibili 课程
+ 
+
+
