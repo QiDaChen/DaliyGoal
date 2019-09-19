@@ -140,7 +140,15 @@
 **计划**:mysql and python for interview
 **实际完成**：
 **备注**: the code of python 3
+
+
+
 ## 20190916:
 **计划**:mysql and python for interview
+**实际完成**：
+**备注**: the code of python 3
+
+## 20190919:
+**计划**:move house and artucle for money
 **实际完成**：
 **备注**: the code of python 3
