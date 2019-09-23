@@ -152,3 +152,10 @@
 **计划**:move house and artucle for money
 **实际完成**：
 **备注**: the code of python 3
+
+
+
+## 20190923:
+**计划**:准备入职
+**实际完成**：
+**备注**: the code of python 3
